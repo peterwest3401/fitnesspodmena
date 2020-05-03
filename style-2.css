@@ -1,0 +1,87 @@
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: url("BwSurcoDEMOLight.eot");
+    src: url("BwSurcoDEMOLight.eot") format('embedded-opentype'),
+         url("BwSurcoDEMOLight.woff2") format('woff2'),
+         url("BwSurcoDEMOLight.woff") format('woff'),
+         url("BwSurcoDEMOLight.ttf") format('truetype'),
+         url("BwSurcoDEMOLight.svg#BwSurcoDEMOLight") format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: url("BwSurcoDEMORegular.eot");
+    src: url("BwSurcoDEMORegular.eot") format('embedded-opentype'),
+         url("BwSurcoDEMORegular.woff2") format('woff2'),
+         url("BwSurcoDEMORegular.woff") format('woff'),
+         url("BwSurcoDEMORegular.ttf") format('truetype'),
+         url("BwSurcoDEMORegular.svg#BwSurcoDEMORegular") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: url("BwSurcoDEMOMedium.eot");
+    src: url("BwSurcoDEMOMedium.eot") format('embedded-opentype'),
+         url("BwSurcoDEMOMedium.woff2") format('woff2'),
+         url("BwSurcoDEMOMedium.woff") format('woff'),
+         url("BwSurcoDEMOMedium.ttf") format('truetype'),
+         url("BwSurcoDEMOMedium.svg#BwSurcoDEMOMedium") format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: url("BwSurcoDEMOBook.eot");
+    src: url("BwSurcoDEMOBook.eot") format('embedded-opentype'),
+         url("BwSurcoDEMOBook.woff2") format('woff2'),
+         url("BwSurcoDEMOBook.woff") format('woff'),
+         url("BwSurcoDEMOBook.ttf") format('truetype'),
+         url("BwSurcoDEMOBook.svg#BwSurcoDEMOBook") format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: url("BwSurcoDEMOBold.eot");
+    src: url("BwSurcoDEMOBold.eot") format('embedded-opentype'),
+         url("BwSurcoDEMOBold.woff2") format('woff2'),
+         url("BwSurcoDEMOBold.woff") format('woff'),
+         url("BwSurcoDEMOBold.ttf") format('truetype'),
+         url("BwSurcoDEMOBold.svg#BwSurcoDEMOBold") format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: url("BwSurcoDEMOBlack.eot");
+    src: url("BwSurcoDEMOBlack.eot") format('embedded-opentype'),
+         url("BwSurcoDEMOBlack.woff2") format('woff2'),
+         url("BwSurcoDEMOBlack.woff") format('woff'),
+         url("BwSurcoDEMOBlack.ttf") format('truetype'),
+         url("BwSurcoDEMOBlack.svg#BwSurcoDEMOBlack") format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: local("efu43bf&@^*"),
+    url("BwSurcoDEMO-LightItalic.otf") format("opentype");
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: local("efu43bf&@^*"),
+    url("BwSurcoDEMO-RegularItalic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: BwSurcoDEMO;
+    src: local("efu43bf&@^*"),
+    url("BwSurcoDEMO-BoldItalic.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
